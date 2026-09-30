@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation"
+  },
+  "updatedAt": "2026-09-30T17:44:39.034Z",
+  "problems": [
+    {
+      "frontendId": "1920",
+      "title": "Build Array from Permutation",
+      "slug": "build-array-from-permutation",
+      "problemName": "1920-build-array-from-permutation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+      "folderPath": "leetcode_solved/1920-build-array-from-permutation/",
+      "readmePath": "leetcode_solved/1920-build-array-from-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1920-build-array-from-permutation.java",
+          "path": "leetcode_solved/1920-build-array-from-permutation/1920-build-array-from-permutation.java",
+          "sha": "2d99b45b64362cbbf79630c6e030da104ebaa898",
+          "lastSyncedAt": "2026-09-30T17:44:39.034Z"
+        }
+      ]
+    }
+  ]
+}

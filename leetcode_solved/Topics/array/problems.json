@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:44:39.034Z",
+  "updatedAt": "2026-09-30T17:44:50.569Z",
   "problems": [
+    {
+      "frontendId": "1475",
+      "title": "Final Prices With a Special Discount in a Shop",
+      "slug": "final-prices-with-a-special-discount-in-a-shop",
+      "problemName": "1475-final-prices-with-a-special-discount-in-a-shop",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/",
+      "folderPath": "leetcode_solved/1475-final-prices-with-a-special-discount-in-a-shop/",
+      "readmePath": "leetcode_solved/1475-final-prices-with-a-special-discount-in-a-shop/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1475-final-prices-with-a-special-discount-in-a-shop.java",
+          "path": "leetcode_solved/1475-final-prices-with-a-special-discount-in-a-shop/1475-final-prices-with-a-special-discount-in-a-shop.java",
+          "sha": "98d8e6c82669dec4118fc14f1c6f9ac311961d96",
+          "lastSyncedAt": "2026-09-30T17:44:50.569Z"
+        }
+      ]
+    },
     {
       "frontendId": "1920",
       "title": "Build Array from Permutation",

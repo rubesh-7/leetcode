@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-10-02T05:47:31.640Z",
+  "updatedAt": "2026-10-02T05:47:41.792Z",
   "problems": [
     {
       "frontendId": "867",
@@ -23,6 +23,26 @@
           "path": "leetcode_solved/0867-transpose-matrix/0867-transpose-matrix.java",
           "sha": "4ad176c3e5b01a33d24f484080e8dfbac4ca2758",
           "lastSyncedAt": "2026-10-02T05:47:31.640Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1672",
+      "title": "Richest Customer Wealth",
+      "slug": "richest-customer-wealth",
+      "problemName": "1672-richest-customer-wealth",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/richest-customer-wealth/",
+      "folderPath": "leetcode_solved/1672-richest-customer-wealth/",
+      "readmePath": "leetcode_solved/1672-richest-customer-wealth/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1672-richest-customer-wealth.java",
+          "path": "leetcode_solved/1672-richest-customer-wealth/Java/1672-richest-customer-wealth.java",
+          "sha": "edaf96d3f5b85f43718368272ec9a1ceee4a5d7a",
+          "lastSyncedAt": "2026-10-02T05:47:41.792Z"
         }
       ]
     }

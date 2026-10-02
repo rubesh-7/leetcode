@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T05:47:20.004Z",
+  "updatedAt": "2026-10-02T05:47:31.640Z",
   "problems": [
+    {
+      "frontendId": "867",
+      "title": "Transpose Matrix",
+      "slug": "transpose-matrix",
+      "problemName": "0867-transpose-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/transpose-matrix/",
+      "folderPath": "leetcode_solved/0867-transpose-matrix/",
+      "readmePath": "leetcode_solved/0867-transpose-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0867-transpose-matrix.java",
+          "path": "leetcode_solved/0867-transpose-matrix/0867-transpose-matrix.java",
+          "sha": "4ad176c3e5b01a33d24f484080e8dfbac4ca2758",
+          "lastSyncedAt": "2026-10-02T05:47:31.640Z"
+        }
+      ]
+    },
     {
       "frontendId": "1475",
       "title": "Final Prices With a Special Discount in a Shop",

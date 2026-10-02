@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T05:47:48.701Z",
+  "updatedAt": "2026-10-02T05:47:58.268Z",
   "problems": [
+    {
+      "frontendId": "16",
+      "title": "3Sum Closest",
+      "slug": "3sum-closest",
+      "problemName": "0016-3sum-closest",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum-closest/",
+      "folderPath": "leetcode_solved/0016-3sum-closest/",
+      "readmePath": "leetcode_solved/0016-3sum-closest/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0016-3sum-closest.java",
+          "path": "leetcode_solved/0016-3sum-closest/Java/0016-3sum-closest.java",
+          "sha": "91f54e5f98c229bbd8836c84e189794478a456d1",
+          "lastSyncedAt": "2026-10-02T05:47:58.268Z"
+        }
+      ]
+    },
     {
       "frontendId": "867",
       "title": "Transpose Matrix",

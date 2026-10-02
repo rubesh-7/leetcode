@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bit-manipulation",
+    "name": "Bit Manipulation"
+  },
+  "updatedAt": "2026-10-02T05:48:09.654Z",
+  "problems": [
+    {
+      "frontendId": "461",
+      "title": "Hamming Distance",
+      "slug": "hamming-distance",
+      "problemName": "0461-hamming-distance",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/hamming-distance/",
+      "folderPath": "leetcode_solved/0461-hamming-distance/",
+      "readmePath": "leetcode_solved/0461-hamming-distance/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0461-hamming-distance.java",
+          "path": "leetcode_solved/0461-hamming-distance/Java/0461-hamming-distance.java",
+          "sha": "102fb9de7109793e8f58f3c95db86eb3180ec3c3",
+          "lastSyncedAt": "2026-10-02T05:48:09.654Z"
+        }
+      ]
+    }
+  ]
+}

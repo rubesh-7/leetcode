@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T05:47:41.792Z",
+  "updatedAt": "2026-10-02T05:47:48.701Z",
   "problems": [
     {
       "frontendId": "867",
@@ -23,6 +23,26 @@
           "path": "leetcode_solved/0867-transpose-matrix/0867-transpose-matrix.java",
           "sha": "4ad176c3e5b01a33d24f484080e8dfbac4ca2758",
           "lastSyncedAt": "2026-10-02T05:47:31.640Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1351",
+      "title": "Count Negative Numbers in a Sorted Matrix",
+      "slug": "count-negative-numbers-in-a-sorted-matrix",
+      "problemName": "1351-count-negative-numbers-in-a-sorted-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/",
+      "folderPath": "leetcode_solved/1351-count-negative-numbers-in-a-sorted-matrix/",
+      "readmePath": "leetcode_solved/1351-count-negative-numbers-in-a-sorted-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1351-count-negative-numbers-in-a-sorted-matrix.java",
+          "path": "leetcode_solved/1351-count-negative-numbers-in-a-sorted-matrix/Java/1351-count-negative-numbers-in-a-sorted-matrix.java",
+          "sha": "0accd478912599b4524b0c99f5faa83742f4ccd4",
+          "lastSyncedAt": "2026-10-02T05:47:48.701Z"
         }
       ]
     },
